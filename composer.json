@@ -2,14 +2,14 @@
     "name": "xiaowanggongzuoshi/rgooding-Protobuf-PHP",
     "description": "PHP implementation of Google's Protocol Buffers",
     "keywords": ["protobuf", "protocol buffer", "serializing"],
-    "homepage": "https://github.com/xiaowanggongzuoshi/rgooding-Protobuf-PHP",
+    "homepage": "https://github.com/xiaowanggongzuoshi/rgooding-protobuf-php",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Iván -DrSlump- Montes",
             "email": "drslump@pollinimini.net",
-            "homepage": "https://github.com/xiaowanggongzuoshi/rgooding-Protobuf-PHP"
+            "homepage": "https://github.com/xiaowanggongzuoshi/rgooding-protobuf-php"
         },
 		{
 			"name": "Richard Gooding",
