@@ -1,5 +1,5 @@
 {
-    "name": "xiaowanggongzuoshi/rgooding-Protobuf-PHP",
+    "name": "xiaowanggongzuoshi/rgooding-protobuf-php",
     "description": "PHP implementation of Google's Protocol Buffers",
     "keywords": ["protobuf", "protocol buffer", "serializing"],
     "homepage": "https://github.com/xiaowanggongzuoshi/rgooding-protobuf-php",
